@@ -7,4 +7,5 @@ def get_ts():
 
 print '{} Bonjour'.format(get_ts())
 print 'version0.1'
+print 'Added this'
 print 'Bye!'
